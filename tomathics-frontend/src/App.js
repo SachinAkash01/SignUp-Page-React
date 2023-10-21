@@ -17,7 +17,7 @@ function App() {
 
       <Components.SignInContainer signinIn={signIn}>
         <Components.Form>
-        <Components.Title>Sign in</Components.Title>
+        <Components.Title>Sign In</Components.Title>
         <Components.Input type='email' placeholder='Email' />
         <Components.Input type='password' placeholder='Password' />
         <Components.Anchor href='#'>Forgot your password?</Components.Anchor>
