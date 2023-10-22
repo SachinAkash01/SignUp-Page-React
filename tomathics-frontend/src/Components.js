@@ -28,7 +28,6 @@ import styled from 'styled-components';
   : null}
  `;
  
-
  export const SignInContainer = styled.div`
  position: absolute;
  top: 0;
